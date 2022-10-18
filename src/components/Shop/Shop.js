@@ -11,7 +11,7 @@ const Shop = () => {
     const[cart,setCart]=useState([])
    
      
-   
+    
 
     const handleClick =(selectedProduct)=>{
         let newCart =[];
